@@ -10,4 +10,6 @@ The Python Starter demonstrates a simple, reusable Python web application.
 4. Run `python server.py`
 5. Access the running app in a browser at http://localhost:8000
 
+Test CI
+
 [Install Python]: https://www.python.org/downloads/
