@@ -7,8 +7,8 @@ GoogleMaps(app, key="AIzaSyCwc3ISug1xPFbSP7kL4f4xF_svNgAc2bc")
 
 @app.route('/')
 def plotPointsOnMap():
-    rawTrafficSignal = pd.read_csv('/datathon/DataCSVFiles/trafficsignals.csv')
-    trafficCameras = pd.read_csv('//datathon/DataCSVFiles/monthlytrafficcameras.csv')
+    rawTrafficSignal = pd.read_csv('DataCSVFiles/trafficsignals.csv')
+    trafficCameras = pd.read_csv('DataCSVFiles/monthlytrafficcameras.csv')
 
     marker = [{} for _ in range(rawTrafficSignal.Latitude.size )]
     for i in range(int(rawTrafficSignal.Longitude.size)):
