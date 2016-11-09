@@ -1,0 +1,474 @@
+SIGNAL_TYPE,SIGNAL_TYPE2,FACILITYID,LEGACYID,SIGNAL_ID,CONSTRUCTION_STATUS,RADIO_CONTROL,OPTICOM,ROTATION,STATUS,PROJECT_NO,YR,OWNER,LOCATION,COMMENTS,GIS_ENTRY_STAGE,WARRANTYDATE,CONDITION,CONDITIONDATE,YTD_COST,LIFECYCLE_COST,CRE_DATE,MOD_DATE,LATITUDE,LONGITUDE
+4,Traffic,1000963580,,123,Constructed,Yes,Y,,In Service,3806-4050-00,2009,Surrey,108 Avenue and 150 Street,,Final AB,,,,,,,20100311,49.198736,-122.806174
+4,Traffic,1000963622,,38,Constructed,Yes,Y,,In Service,3806-4040-00,2009,Surrey,King George Blvd and 104 Avenue,,Final AB,,,,,,,20100312,49.191621,-122.845349
+4,Traffic,1000963418,,435,Constructed,No,Y,,In Service,3806-4030-00,2009,Surrey,108 Avenue and Oriole Drive,,Final AB,,,,,,,20100311,49.198731,-122.808619
+4,Traffic,1000963587,,19,Constructed,No,,,In Service,1.00E+05,2009,Surrey,94 Avenue and 192 Street,,Final AB,,,,,,,20091217,49.173382,-122.690584
+4,Traffic,1000963438,,25,Constructed,No,Y,,In Service,1.00E+05,2009,Surrey,96 Avenue and 192 Street,,Final AB,,,,,,,20091217,49.176997,-122.690487
+4,Traffic,1000963634,,419,Constructed,No,,,In Service,MOTH 71101-2005,2007,Provincial,58A Ave @ Cloverdale Bypass,,Final AB,,,,,,,20091223,49.108312,-122.736786
+4,Traffic,1000963477,,271,Constructed,No,,,In Service,MOTH 71101-2005,2007,Provincial,64 Ave & Hwy 15,,Final AB,,,,,,,20091223,49.118775,-122.73496
+4,Traffic,1000963646,,279,Constructed,No,,,In Service,MOTH 71101-2005,2007,Provincial,62 Ave @ Hwy 15,,Final AB,,,,,,,20091223,49.115724,-122.734886
+4,Traffic,1000963572,,32,Constructed,No,,,In Service,MOTH 71101-2005,2007,Provincial,60 Ave @ Hwy 15,,Final AB,,,,,,,20091223,49.111478,-122.734865
+4,Traffic,1000963672,,130,Constructed,Yes,Y,,In Service,3803-4150-00,2009,Surrey,72 Avenue and 148 Street,,Final AB,,,,,,,20101202,49.133738,-122.812169
+4,Traffic,1000963582,,321,Constructed,No,Y,,In Service,3808-4140-00,2010,Surrey,Green Timbers Way and 140 Street,,Final AB,,,,,,,20110303,49.180845,-122.834366
+4,Traffic,1000963360,,248,Constructed,Yes,Y,,In Service,3807-4070-00,2010,Surrey,Fraser Highway and 140 Street,,Final AB,,,,,,,20110303,49.178801,-122.834361
+4,Traffic,1000963544,,161,Constructed,Yes,Y,,In Service,3808-4110-00,2010,Surrey,100 Avenue and 140 Street,,Final AB,,,,,,,20110303,49.184203,-122.834175
+4,Traffic,1000963630,,202,Constructed,Yes,,,In Service,,,Surrey,20 Avenue and 152 Street,,,,,,,,,20120920,49.038355,-122.801192
+2,Pedestrian,1000963547,,431,Constructed,No,,,Proposed,,,Provincial,,,,,,,,,,20120920,49.03846,-122.735228
+4,Traffic,1000963464,,46,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and 152 Street,,,,,,,,,20120920,49.16285,-122.801507
+2,Pedestrian,1000963663,,380,Constructed,No,,,In Service,,,Surrey,96 Avenue and 150 Street,,,,,,,,,20120920,49.17685,-122.806632
+2,Pedestrian,1000963367,,448,Constructed,No,,,In Service,,,Surrey,93A Avenue and 140 Street,,,,,,,,,20120920,49.172457,-122.834606
+4,Traffic,1000963589,,224,Constructed,No,Y,,In Service,,,Surrey,96 Avenue and 148 Street,,,,,,,,,20120920,49.176871,-122.812234
+4,Traffic,1000963366,,151,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 132 Street,,,,,,,,,20120920,49.204988,-122.85446
+4,Traffic,1000963414,,126,Constructed,No,Y,,In Service,,,Surrey,88 Avenue and 148 Street,,,,,,,,,20151005,49.162822,-122.812382
+4,Traffic,1000963452,,324,Constructed,Yes,,,In Service,,,Surrey,Fraser Highway and Whalley Blvd,,,,,,,,,20120920,49.180739,-122.841457
+4,Traffic,1000963603,,155,Constructed,Yes,,,In Service,,,Surrey,102 Avenue and University Drive,,,,,,,,,20120920,49.188526,-122.850077
+4,Traffic,1000963527,,36,Constructed,No,Y,,In Service,,,Surrey,74 Avenue and 137 Street,,,,,,,,,20120920,49.13721,-122.842827
+4,Traffic,1000963665,,4,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 152 Street,,,,,,,,,20120920,49.133678,-122.801081
+4,Traffic,1000963470,,304,Constructed,No,,,In Service,,,Surrey,92 Avenue and 140 Street,,,,,,,,,20120920,49.170099,-122.834616
+4,Traffic,1000963599,,298,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and University Drive,,,,,,,,,20151005,49.191642,-122.85056
+4,Traffic,1000963540,,215,Constructed,No,Y,,In Service,,,Surrey,84 Avenue and 148 Street,,,,,,,,,20151005,49.155526,-122.812457
+2,Pedestrian,1000963676,,370,Constructed,No,,,In Service,,,Surrey,86 Avenue and120 Street,,,,,,,,,20120920,49.159597,-122.890366
+4,Traffic,1000963632,,92,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 159 Street,,,,,,,,,20120920,49.158608,-122.782058
+3,Special Crosswalk,1001602510,,,Constructed,,,,In Service,3812-4130-00,2014,Surrey,86A Ave @  144 St,Yellow Beacon,Initial AB,,,,,,20130612,20151005,49.160115,-122.823399
+4,Traffic,1000963699,,175,Constructed,No,Y,,In Service,,,Surrey,Fraser Highway and 166 Street,,,,,,,,,20120920,49.15078,-122.762066
+1,Fire,1000963469,,338,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.135118,-122.856713
+1,Fire,1000963496,,378,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.162639,-122.85691
+4,Traffic,1000963465,,173,Constructed,Yes,,,In Service,,,Surrey,102 Avenue and City Parkway,,,,,,,,,20120920,49.18786,-122.84767
+4,Traffic,1000963373,,76,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 68 Avenue,,,,,,,,,20120920,49.12623,-122.845593
+4,Traffic,1000963614,,40,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and 156 Street,,,,,,,,,20120920,49.162801,-122.79018
+4,Traffic,1000963462,,266,Constructed,Yes,,,In Service,,,Surrey,32 Avenue and 154 Street,,,,,,,,,20120920,49.060635,-122.797399
+4,Traffic,1000963478,,218,Constructed,Yes,Y,,In Service,,,Surrey,76 Avenue and 132 Street,,,,,,,,,20120920,49.140933,-122.85676
+4,Traffic,1000963668,,63,Constructed,Yes,Y,,In Service,,,Surrey,Scott Road and Old Yale Road,,,,,,,,,20120920,49.199203,-122.882491
+4,Traffic,1000963484,,196,Constructed,Yes,Y,,In Service,,,Surrey,18 Avenue and 152 Street,,,,,,,,,20120920,49.034749,-122.80119
+4,Traffic,1000963704,,110,Constructed,Yes,,,In Service,,,Surrey,16 Avenue and 140 Street,,,,,,,,,20120920,49.0312,-122.834328
+4,Traffic,1000963652,,254,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 188 Street,,,,,,,,,20120920,49.11896,-122.701723
+4,Traffic,1000963502,,325,Constructed,No,Y,,In Service,,,Surrey,84 Avenue and 144 Street,,,,,,,,,20151005,49.155522,-122.823351
+4,Traffic,1000963667,,131,Constructed,Yes,Y,,In Service,,,Surrey,76 Avenue and 128 Street,,,,,,,,,20120920,49.141025,-122.867906
+4,Traffic,1000963408,,108,Constructed,No,Y,,In Service,,,Surrey,68 Avenue and 124 Street,,,,,,,,,20120920,49.126653,-122.878985
+4,Traffic,1000963377,,307,Constructed,Yes,Y,,In Service,,,Surrey,82 Avenue and 120 Street,,,,,,,,,20120920,49.152284,-122.890365
+2,Pedestrian,1000963607,,379,Constructed,No,,,In Service,,,Surrey,84 Avenue and 146 Street,,,,,,,,,20151005,49.155525,-122.817562
+4,Traffic,1000963347,,170,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 128 Street,,,,,,,,,20120920,49.206354,-122.867331
+4,Traffic,1000963432,,327,Constructed,Yes,Y,,In Service,,,Surrey,108 Avenue and 140 Street,,,,,,,,,20120920,49.19885,-122.834105
+4,Traffic,1000963491,,23,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and 144 Street,,,,,,,,,20151005,49.162861,-122.823428
+4,Traffic,1000963467,,191,Constructed,No,,,In Service,,,Surrey,14 Avenue and 160 Street,,,,,,,,,20120920,49.027434,-122.779204
+4,Traffic,1000963600,,102,Constructed,Yes,Y,,In Service,,,Surrey,16 Avenue and 154 Street,,,,,,,,,20120920,49.031104,-122.795676
+2,Pedestrian,1000963409,,432,Constructed,No,,,In Service,,,Surrey,96 Avenue and 123A Street,,,,,,,,,20120920,49.177169,-122.880505
+4,Traffic,1000963385,,253,Constructed,No,Y,,In Service,,,Surrey,77 Avenue and 140 Street,,,,,,,,,20120920,49.142734,-122.834523
+4,Traffic,1000963608,,293,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and Whalley Boulevard,,,,,,,,,20120920,49.191576,-122.841899
+2,Pedestrian,1000963520,,,Constructed,No,,,In Service,,,Surrey,84 Avenue and 142 Street,,,,,,,,,20151005,49.155507,-122.828964
+4,Traffic,1000963523,,128,Constructed,Yes,,,In Service,SFPR Seg. 6,2013,Provincial,SFPR @ Tannery Rd Ramps,,Final AB,,,,,,,20160330,49.195848,-122.892432
+4,Traffic,1000963705,,142,Constructed,Yes,Y,,In Service,,,Surrey,100 Avenue and 148 Street,,,,,,,,,20120920,49.184159,-122.812053
+2,Pedestrian,1000963440,,420,Constructed,No,,,In Service,,,Surrey,98 Avenue and 152 Street,,,,,,,,,20120920,49.180468,-122.800972
+2,Pedestrian,1000963569,,457,Constructed,No,,,In Service,,,Surrey,16 Avenue and 146 Street,,,,,,,,,20120920,49.03117,-122.817572
+4,Traffic,1000963596,,259,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 128 Street,,,,,,,,,20120920,49.133895,-122.867842
+4,Traffic,1000963353,,326,Constructed,No,Y,,In Service,,,Surrey,24 Avenue and 168 Street,,,,,,,,,20120920,49.045681,-122.757031
+4,Traffic,1000963364,,82,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 140 Street,,,,,,,,,20120920,49.191474,-122.834133
+4,Traffic,1000963654,,276,Constructed,Yes,,,In Service,SFPR Seg. 6,2013,Provincial,Bridge Rd @ Old Yale Rd (SFPR - proposed?),,Final AB,,,,,,,20160330,49.201781,-122.887675
+4,Traffic,1000963615,,247,Constructed,Yes,,,In Service,,,Surrey,Old Yale Road and University Drive,,,,,,,,,20120920,49.186058,-122.851788
+4,Traffic,1000963359,,53,Constructed,Yes,Y,,In Service,,,Surrey,102 Avenue and 128 Street,,,,,,,,,20120920,49.188041,-122.867695
+4,Traffic,1000963631,,72,Constructed,Yes,,,In Service,,,Surrey,102 Avenue and Whalley Boulevard,,,,,,,,,20120920,49.187811,-122.843234
+4,Traffic,1001734582,,,Constructed,,,,In Service,SFPR Seg. 6,2013,Provincial,SFPR & Tannery Rd Ramps,,,,,,,,20140314,20160330,49.196401,-122.893522
+1,Fire,1001224382,,,Constructed,,,,In Service,,,Surrey,,,,,,,,,20111220,20160413,49.038886,-122.735231
+4,Traffic,1001567079,,,Constructed,,,,In Service,SFPR Seg. F1,2014,Provincial,104 Ave & South Fraser Perimeter Rd,,Final AB,,,,,,20130212,20160413,49.191492,-122.738171
+4,Traffic,1001779567,,,Constructed,,,,In Service,3813-4160-00,2015,Surrey,,,Initial AB,,,,,,20160316,20160316,49.14817,-122.690714
+4,Traffic,1001740374,,,Constructed,,,,In Service,SFPR Seg. 6,2014,Surrey,,,Final AB,,,,,,20140408,20160331,49.196506,-122.896821
+4,Traffic,1000963531,,393,Constructed,No,,,In Service,3812-4090-00,2014,Surrey,64 Avenue and 142 Street,,Final AB,,,,,,,20141210,49.119107,-122.82881
+4,Traffic,1000963621,,54,Constructed,Yes,Y,,In Service,,,Surrey,108 Avenue and University Drive,,,,,,,,,20150923,49.198911,-122.850842
+4,Traffic,1000963560,,235,Constructed,Yes,Y,,In Service,,,Surrey,76 Avenue and 152 Street,,,,,,,,,20150923,49.141084,-122.801125
+2,Pedestrian,1001567077,,,Constructed,,,,In Service,,2012,Surrey,Green Timbers Way and Staff Access,,Final AB,,,,,,20131016,20131016,49.179067,-122.829337
+4,Traffic,1001567076,,,Constructed,,,,In Service,7804-0437-00,2013,Surrey,Green Timbers Way and Public Acces,,Final AB,,,,,,20131016,20131016,49.178305,-122.827469
+4,Traffic,1000963474,,80,Constructed,Yes,Y,,In Service,7806-0413-00,2013,Surrey,102A Avenue and 152 Street,,Final AB,,,,,,20140123,20140123,49.188736,-122.800893
+4,Traffic,1000963574,,462,Constructed,No,No,,In Service,7806-0413-00,2013,Surrey,102A Avenue and 150 Street,,Final AB,,,,,,20140123,20140123,49.188875,-122.806451
+4,Traffic,1000963319,,,Constructed,No,,,In Service,3812-4100-00,2014,Surrey,64 Avenue and 126 Street,,,,,,,,,20141210,49.119173,-122.873415
+4,Traffic,1000963439,,232,Constructed,Yes,,,In Service,1713-3070-00,2014,Surrey,Scott Road and Tannery Road,,Final AB,,,,,,,20150212,49.193895,-122.888768
+4,Traffic,1000963403,,257,Constructed,Yes,Y,,In Service,1705-3150-00,2013,Surrey,104 Avenue and 152 Street,,Final AB,,,,,,,20150312,49.191476,-122.80088
+4,Traffic,1000963457,,238,Constructed,Yes,,,In Service,,,Surrey,91 Avenue and 152 Street,,,,,,,,,20150923,49.168285,-122.80133
+2,Pedestrian,1000963499,,421,Constructed,Yes,,,In Service,,,Surrey,95 Avenue and 152 Street,,,,,,,,,20150923,49.175517,-122.801075
+4,Traffic,1000963424,,116,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 152 Street,,,,,,,,,20150923,49.166106,-122.801401
+4,Traffic,1000963671,,35,Constructed,Yes,Y,,In Service,,,Surrey,96 Avenue and 152 Street,,,,,,,,,20150923,49.176841,-122.801027
+4,Traffic,1001201151,,,Constructed,,,,In Service,1713-3180-00,2015,Surrey,Old Yale Road and 124 Street,,Final AB,,,,,,20160128,20160128,49.197543,-122.878709
+4,Traffic,1000963643,,408,Constructed,No,,,In Service,,,Provincial,"Moved? Harvie Rd, 192 St, Hwy 1",,,,,,,,,20130603,49.169761,-122.693098
+4,Traffic,1000963356,,42,Constructed,No,,,In Service,,,Provincial,"Moved? Hwy 15, Hwy 1 South Side Exit",,,,,,,,,20130603,49.179987,-122.734781
+4,Traffic,1000963575,,139,Constructed,No,,,In Service,,,Provincial,"Middle of off-ramp, KGB, Elgin Rd, Park & Ride?",,,,,,,,,20130603,49.071654,-122.823962
+4,Traffic,1000963524,,314,Constructed,No,,,In Service,,,Provincial,Hwy 10 & 176 St,,,,,,,,,20130603,49.104147,-122.734957
+4,Traffic,1000963612,,288,Constructed,No,,,In Service,,,Provincial,"Moved? Hwy 1, 160 St, 104 Ave",,,,,,,,,20130603,49.191738,-122.780827
+4,Traffic,1000963501,,297,Constructed,No,,,In Service,,,Provincial,"Moved? 96 Ave & Golden Ears, nr Hwy 1",,,,,,,,,20130603,49.176402,-122.734613
+4,Traffic,1001779561,,,Constructed,,,,In Service,3813-4140-00,2015,Surrey,128 St & 24 Ave,,,,,,,,20140909,20160202,49.111803,-122.867847
+4,Traffic,1000963701,,152,Constructed,No,,,In Service,,,Provincial,"Moved? Hwy 1, 160 St, 104 Ave",,,,,,,,,20160302,49.190816,-122.778243
+4,Traffic,1000963683,,374,Constructed,No,Y,,In Service,3804-4000-00,2010,Surrey,24 Avenue and 192 Street,,Final AB,,,,,,,20121212,49.045662,-122.691403
+2,Pedestrian,1001146934,,,Constructed,,,,In Service,3808-4160-00,2012,Surrey,Huntley Avenue and 132 Street,,Final AB,,,,,,20100118,20121212,49.172343,-122.856858
+4,Traffic,1000963331,,216,Constructed,No,,,In Service,,,Surrey,KGB & 148 Street/32A Avenue,,,,,,,,,20150306,49.061297,-122.813033
+2,Pedestrian,1000963558,,223,Constructed,No,,,In Service,,,Surrey,24 Avenue and 161 Street,,,,,,,,,20150306,49.045563,-122.776964
+4,Traffic,1000963398,,295,Constructed,No,Y,,In Service,,2011,Surrey,24 Avenue and 161A Street,,,,,,,,,20150306,49.045571,-122.775344
+4,Traffic,1000963647,,167,Constructed,No,,,In Service,3804-4200-00,2013,Surrey,104 Avenue and City Parkway,,,,,,,,,20150703,49.19163,-122.847684
+4,Traffic,1001734840,,,Constructed,,,,In Service,3811-4060-00,2013,Surrey,King George Blvd and 103 Avenue,,Initial AB,,,,,,20140317,20150703,49.190118,-122.84537
+4,Traffic,1000963602,,331,Constructed,No,Y,,In Service,,,Surrey,King George Blvd and 26 Avenue,,,,,,,,,20141217,49.049086,-122.797887
+4,Traffic,1000963645,,159,Constructed,No,Y,,In Service,,,Surrey,20 Avenue and 148 Street,,,,,,,,,20141217,49.038409,-122.812238
+3,Special Crosswalk,1001146915,,,Constructed,,,,In Service,3808-7010-00,2009,Surrey,,,Final AB,,,,,,20100118,20121213,49.113353,-122.75661
+3,Special Crosswalk,1000963333,,366,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20111222,49.034642,-122.8031
+4,Traffic,1000963606,,168,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 184 Street,,,,,,,,,20141217,49.128733,-122.712544
+3,Special Crosswalk,1000963696,,439,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20111222,49.204608,-122.877673
+3,Special Crosswalk,1000963689,,384,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20111222,49.052802,-122.713443
+4,Traffic,1000963516,,358,Constructed,No,Y,,In Service,,2013,Surrey,102A Avenue and 154 Street,,,,,,,,,20140407,49.1888,-122.795331
+1,Fire,1001799634,,,Constructed,,,,In Service,,,Surrey,"176 St, North of Hwy 1",,,,,,,,20141217,20141217,49.183091,-122.73469
+3,Special Crosswalk,1000960519,,,Constructed,No,,,In Service,2857,,Surrey,,,,,,,,,20081210,20111222,49.045608,-122.797523
+2,Pedestrian,1001146936,,,Constructed,,,,In Service,3807-4100-00,2009,Surrey,King George Blvd and 107A Avenue,,Final AB,,,,,,20100118,20121213,49.197393,-122.845336
+4,Traffic,1001224668,,,Constructed,No,,,In Service,,2011,Surrey,,,,,,,,,20111222,20111222,49.125711,-122.706165
+2,Pedestrian,1001132064,,,Constructed,No,No,,In Service,3808-4050-00,2012,Surrey,100 Avenue and 153 Street,,Final AB,,,,,,20090915,20121213,49.184231,-122.798135
+0,Beacons,1001218098,,,Constructed,,Y,,In Service,7806-0137-00,2011,Surrey,Croydon Drive and Mall Access,Yellow Beacon,Final AB,,,,,,20111107,20111222,49.046757,-122.784464
+4,Traffic,1000963510,,158,Constructed,No,Y,,In Service,1705-3190-00,2010,Surrey,60 Avenue and 144 Street,,Final AB,,,,,,,20120611,49.111842,-122.823308
+0,Beacons,1001146948,,,Constructed,,,,In Service,3808-4080-00,2009,Surrey,,Red Beacon,Final AB,,,,,,20100118,20121213,49.126494,-122.8622
+0,Beacons,1001146949,,,Constructed,,,,In Service,3808-4090-00,2009,Surrey,68 Ave & 134 St,Red Beacon,,,,,,,20100118,20121213,49.126317,-122.851115
+4,Traffic,1000963335,,60,Constructed,No,Y,,In Service,3808-4070-00,2011,Surrey,64 Avenue and 134 Street,Pedestrian Signal,Final AB,,,,,,,20121213,49.119021,-122.850996
+2,Pedestrian,1001146940,,,Constructed,,,,In Service,3808-7020-00,2009,Surrey,63 Avenue and 168 Street,,Final AB,,,,,,20121213,20121213,49.116485,-122.756579
+2,Pedestrian,1001146937,,,Constructed,,,,In Service,,,Surrey,,,,,,,,,20100118,20121213,49.182535,-122.800941
+2,Pedestrian,1001132063,,,Constructed,No,No,,In Service,3808-4040-00,2009,Surrey,99 Avenue and 152 Street,,Final AB,,,,,,20090915,20121213,49.182535,-122.800941
+0,Beacons,1000963640,,352,Constructed,No,,,In Service,,,Surrey,,Yellow Beacon,,,,,,,,20140407,49.04811,-122.867374
+3,Special Crosswalk,1001202931,,,Constructed,,,,In Service,3810-4150-00,2012,Surrey,102B Ave & 156 St,,Final AB,,,,,,20121221,20140407,49.189318,-122.789763
+4,Traffic,1001419622,,,Constructed,,Y,,In Service,3811-4050-00,,Surrey,104 Avenue and 168 Street,,EC,,,,,,20120727,20140407,49.191614,-122.756474
+2,Pedestrian,1001419635,,,Constructed,,,,In Service,3812-4010-00,2013,Surrey,16 Avenue and Foster Street,,EC,,,,,,20120727,20140407,49.031125,-122.803932
+4,Traffic,1000963441,,164,Constructed,Yes,Y,,In Service,7805-0143-00,2009,Surrey,103A Avenue and 120 Street,,Final AB,,,,,,,20120227,49.190593,-122.890275
+2,Pedestrian,1001202899,,,Constructed,,,,In Service,3810-4030-00,2012,Surrey,108 Avenue and 162 Street,,Final AB,,,,,,20121220,20130212,49.198824,-122.773088
+4,Traffic,1001165760,,,Constructed,,Y,,In Service,7805-0143-00,2010,Surrey,103A Avenue and Grace Road,,Final AB,,,,,,20100629,20120227,49.190741,-122.893194
+4,Traffic,1000963597,,10,Constructed,Yes,Y,,In Service,1711-3080-00,,Surrey,King George Blvd and 32 Ave Div,,Final AB,,,,,,,20140403,49.058806,-122.809936
+3,Special Crosswalk,1001165790,,,Constructed,,,,In Service,,2010,Surrey,,It was Yellow Beacon before,,,,,,,20100629,20130212,49.189694,-122.8419
+4,Traffic,1001146928,,,Constructed,,Y,,In Service,3803-4180-00,2008,Surrey,King George Blvd and 156 Street,,,,,,,,20100118,20140219,49.042792,-122.790085
+4,Traffic,1000963539,,428,Constructed,No,No,,In Service,7811-0053-00,2014,Surrey,96 Avenue and 137A Street,,Final AB,,,,,,,20141223,49.177025,-122.842119
+4,Traffic,1001419824,,,Constructed,,Y,,In Service,7806-0376-00,2013,Surrey,70 Avenue and120 Street,,Final AB,,,,,,20120730,20140625,49.130354,-122.89036
+4,Traffic,1001740222,,,Constructed,,Y,,In Service,7811-0053-00,2014,Surrey,96 Avenue and 137 Street,,,,,,,,20140407,20141223,49.177031,-122.843396
+0,Beacons,1001563867,,,Constructed,,,,In Service,3811-4040-00,2012,Surrey,60 Ave & 142 St,Red Beacon,Final AB,,,,,,20130118,20130212,49.111845,-122.828835
+4,Traffic,1001132065,,,Constructed,No,No,,In Service,1.00E+03,2009,Provincial,Golden Ears Way @ 96 Ave Connector,,Final AB,,,,,,20090915,20120127,49.179061,-122.713325
+4,Traffic,1001132066,,,Constructed,No,No,,In Service,1.00E+04,2009,Provincial,192 St @ Golden Ears Way,,Final AB,,,,,,20090915,20120127,49.181035,-122.690292
+4,Traffic,1000963426,,388,Constructed,No,Y,,In Service,3810-4070-00,2012,Surrey,92 Avenue and 128 Street,,,,,,,,,20160112,49.169795,-122.868019
+4,Traffic,1000963644,,106,Constructed,Yes,Y,,In Service,1709-3090-00,2012,Surrey,96 Avenue and 160 Street,,Final AB,,,,,,,20130221,49.176906,-122.778846
+4,Traffic,1001434220,,,Constructed,,Y,,In Service,3810-4130-00,2012,Surrey,96 Avenue and 162A Street,,Final AB,,,,,,20120920,20130221,49.176939,-122.771925
+2,Pedestrian,1000963417,,376,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20150618,49.131714,-122.838649
+4,Traffic,1000963626,,292,Constructed,No,,,In Service,3810-4110-00,2014,Surrey,96 Avenue and 168 Street,,,,,,,,,20150925,49.176996,-122.756594
+4,Traffic,1000963488,,96,Constructed,No,Y,,In Service,,,Surrey,88 Avenue and 168 Street,,,,,,,,,20150925,49.162856,-122.756617
+4,Traffic,1000963533,,47,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 168 Street,,,,,,,,,20150925,49.14803,-122.756573
+4,Traffic,1001146939,,,Constructed,,Y,,In Service,3808-4030-00,2012,Surrey,84 Avenue and 168 Street,,Final AB,,,,,,20100118,20150925,49.15549,-122.756623
+4,Traffic,1001750911,,,Constructed,,Y,,In Service,1709-3130-00,2014,Surrey,54 Avenue and 192 Street,,Final AB,,,,,,20140527,20151002,49.101227,-122.691144
+4,Traffic,1000963556,,422,Constructed,Yes,Y,,In Service,3805-4050-00,2009,Surrey,King George Blvd and 74 Avenue,,Final AB,,,,,,,20091106,49.137187,-122.845605
+4,Traffic,1000963400,,144,Constructed,Yes,Y,,In Service,1705-3110-00,2009,Surrey,King George Blvd and 24 Avenue,,Final AB,,,,,,,20120123,49.045595,-122.79356
+4,Traffic,1001182393,,,Constructed,,Y,,In Service,3804-4150-00,2010,Surrey,Fraser Highway and 68 Avenue,,Final AB,,,,,,20101119,20120126,49.12571,-122.706165
+4,Traffic,1000963586,,317,Constructed,Yes,Y,,In Service,3810-4100-00,2012,Surrey,King George Blvd and 96 Avenue,,Final AB,,,,,,20121221,20121221,49.177042,-122.845718
+2,Pedestrian,1001202930,,,Constructed,,,,In Service,3810-4160-00,2012,Surrey,105 Avenue and 154 Street,,Final AB,,,,,,20121221,20121221,49.193349,-122.795317
+4,Traffic,1000963669,,310,Constructed,Yes,,,In Service,,,Surrey,Mall Access and 120 Street,,,,,,,,,20140411,49.137084,-122.890354
+4,Traffic,1001739655,,,Constructed,,Y,,In Service,3810-4080-00,2012,Surrey,104 Avenue and Old Yale Road,,Final AB,,,,,,20140404,20140407,49.191687,-122.863404
+0,Beacons,1001740214,,,Constructed,,,,In Service,,,Surrey,,Yellow Beacon,,,,,,,20140407,20140407,49.198867,-122.762724
+2,Pedestrian,1001202903,,,Constructed,,,,In Service,3810-4040-00,2012,Surrey,62 Avenue and 128 Street,,Final AB,,,,,,20121220,20121220,49.115462,-122.867845
+4,Traffic,1001779493,,,Constructed,,,,In Service,3814-4010-00,2014,Surrey,128 St and 70B Ave,,Initial AB,,,,,,20140909,20150224,49.131424,-122.867821
+4,Traffic,1000963674,,445,Constructed,No,Y,,In Service,3801-4130-00,2011,Surrey,16 Avenue and 136 Street,,Final AB,,,,,,20121220,20121220,49.031225,-122.845419
+4,Traffic,1001837443,,,Constructed,,,,In Service,1001203640,2015,Surrey,152 Street and 152 Street Fg E,,Initial AB,,,,,,20150908,20150922,49.095085,-122.801155
+3,Special Crosswalk,1001779484,,,Constructed,,,,In Service,,2014,Surrey,88 Ave  158 St,,,,,,,,20140909,20140909,49.162778,-122.785188
+2,Pedestrian,1001779568,,,Constructed,,,,In Service,,,Surrey,96 Avenue and 122 Street,,,,,,,,20140909,20140909,49.177159,-122.884623
+3,Special Crosswalk,1001779566,,,Constructed,,,,In Service,,,Surrey,,,,,,,,,20140909,20140909,49.133934,-122.87623
+3,Special Crosswalk,1001779575,,,Constructed,,,,In Service,,,Surrey,,,,,,,,,20140909,20140909,49.189155,-122.849858
+2,Pedestrian,1001779570,,,Constructed,,,,In Service,,,Surrey,105 Avenue and 132 Street,,,,,,,,20140909,20140909,49.193263,-122.856446
+3,Special Crosswalk,1001779569,,,Constructed,,,,In Service,,,Surrey,101 Ave  Whalley Blvd,,,,,,,,20140909,20140909,49.186115,-122.843234
+3,Special Crosswalk,1001779488,,,Constructed,,,,In Service,,2014,Surrey,64 Ave 12500 Blk,,,,,,,,20140909,20140909,49.1192,-122.876106
+4,Traffic,1000963588,,98,Constructed,No,Y,,In Service,7812-0030-00,2014,Surrey,105 Avenue and 150 Street,,,,,,,,,20150219,49.19306,-122.806378
+4,Traffic,1000963326,,39,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & KGB,,Final AB,,,,,,,20130322,49.104522,-122.831301
+2,Pedestrian,1001165772,,,Constructed,,,,In Service,3809-4130-00,2012,Surrey,64 Avenue and 180 Street,,Final AB,,,,,,20121025,20121025,49.118757,-122.723795
+4,Traffic,1000963442,,301,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & 132 St,,Final AB,,,,,,,20130322,49.108202,-122.856717
+4,Traffic,1001146942,,,Constructed,No,,,In Service,,,Provincial,192 St & Golden Ears Way,,,,,,,,20100118,20130322,49.181035,-122.690292
+4,Traffic,1001146944,,,Constructed,No,,,In Service,,,Provincial,96 Ave & Golden Ears Way,,,,,,,,20100118,20130322,49.179061,-122.713325
+4,Traffic,1000963613,,14,Constructed,No,,,In Service,,,Provincial,32 Ave Diversion & Hwy 99,,,,,,,,,20130322,49.061302,-122.805084
+4,Traffic,1000963536,,65,Constructed,No,,,In Service,,,Provincial,Hwy 15 & 24 Ave,,,,,,,,,20130322,49.045689,-122.735284
+4,Traffic,1000963658,,275,Constructed,No,,,In Service,,,Provincial,Hwy 10 & 177B St,,,,,,,,,20130322,49.104166,-122.730278
+4,Traffic,1000963650,,300,Constructed,No,,,In Service,,,Provincial,Hwy 10 & 120 St,,,,,,,,,20130322,49.108258,-122.890422
+4,Traffic,1000963638,,182,Constructed,No,,,In Service,,,Provincial,Hwy 15 & 4 Ave,,,,,,,,,20130322,49.009406,-122.735331
+4,Traffic,1000963427,,185,Constructed,No,,,In Service,,,Provincial,Hwy 15 & 2 Ave,,,,,,,,,20130322,49.005547,-122.735372
+4,Traffic,1000963406,,67,Constructed,No,,,In Service,,,Provincial,Hwy 10 & 180 St,,,,,,,,,20130322,49.104162,-122.723828
+4,Traffic,1000963481,,45,Constructed,No,,,In Service,,,Provincial,Hwy 10 & 184 St,,,,,,,,,20130322,49.104106,-122.712685
+4,Traffic,1000963401,,34,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & 168 St,,Final AB,,,,,,,20130322,49.104285,-122.756653
+4,Traffic,1000963591,,140,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & 152 St,,Final AB,,,,,,,20130322,49.104429,-122.801041
+4,Traffic,1000963378,,222,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & 144 St,,Final AB,,,,,,,20130322,49.104542,-122.823423
+4,Traffic,1000963372,,1,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & 148 St,,Final AB,,,,,,,20130322,49.104501,-122.812306
+4,Traffic,1001567080,,,Constructed,,,,In Service,1709-3140-00,2014,Other Municipality,Fraser Highway and 196 Street,,Final AB,,,,,,20130212,20150422,49.113887,-122.679792
+4,Traffic,1001419412,,,Constructed,,Y,,In Service,3809-4110-00,,Surrey,86 Avenue and 128 Street,,EC,,,,,,20120726,20140527,49.158946,-122.868013
+0,Beacons,1000963666,,15,Constructed,No,,,In Service,,,Surrey,,Yellow Beacon,,,,,,,,20140527,49.148165,-122.862266
+4,Traffic,1001750912,,,Constructed,,Y,,In Service,1709-3140-00,2014,Surrey,56 Avenue and 196 Street,,Final AB,,,,,,20140527,20150422,49.104401,-122.679958
+0,Beacons,1001750903,,,Constructed,,,,In Service,,,Surrey,,Yellow Beacon,,,,,,,20140527,20140527,49.140913,-122.834508
+0,Beacons,1001750906,,,Constructed,,,,In Service,,,Surrey,,Yellow Beacon,,,,,,,20140527,20140527,49.108244,-122.812267
+0,Beacons,1001750907,,,Constructed,,,,In Service,,,Surrey,,Yellow Beacon,,,,,,,20140527,20140527,49.120766,-122.701717
+4,Traffic,1001567081,,,Constructed,,Y,,In Service,7808-0128-00,2012,Surrey,66A Avenue and 152 Street,,Final AB,,,,,,20130219,20140527,49.123519,-122.801021
+4,Traffic,1000963445,,124,Constructed,No,,,In Service,,,Provincial,Hwy 10 & 192 St,,,,,,,,,20140527,49.104495,-122.691126
+4,Traffic,1000963399,,337,Constructed,No,,,In Service,7805-0094-00,2013,Provincial,,,Final AB,,,,,,20130301,20140527,49.104147,-122.701634
+4,Traffic,1000963389,,7,Constructed,No,,,In Service,,,Provincial,"Moved? Hwy 1, 160 St, 104 Ave",,,,,,,,,20160408,49.193371,-122.77727
+4,Traffic,1001435158,,,Constructed,,Y,,In Service,3812-4050-00,,Surrey,70 Avenue and 192 Street,,EC,,,,,,20120927,20140527,49.130036,-122.690828
+4,Traffic,1001435152,,,Constructed,,Y,,In Service,3809-4080-00,,Surrey,68 Avenue and 192 Street,,EC,,,,,,20120927,20140527,49.126392,-122.69087
+4,Traffic,1001435161,,,Constructed,,Y,,In Service,3809-4090-00,,Surrey,72 Avenue and 192 Street,,EC,,,,,,20120927,20140527,49.133682,-122.690789
+4,Traffic,1001750913,,,Constructed,,Y,,In Service,1709-3140-00,2014,Surrey,60 Avenue and 196 Street,,Final AB,,,,,,20140527,20150422,49.111236,-122.679911
+4,Traffic,1001598488,,,Constructed,,Y,,In Service,3813-6140-00,2014,Surrey,28 Avenue and 160 Street,,Final AB,,,,,,20130603,20150721,49.052809,-122.779189
+0,Beacons,1001750925,,,Constructed,,,,In Service,,,Surrey,,Yellow Beacon,,,,,,,20140527,20140527,49.153642,-122.778837
+4,Traffic,1000963526,,86,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 64 Avenue,,,,,,,,,20120920,49.119039,-122.845486
+4,Traffic,1000963338,,302,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and 160 Street,,,,,,,,,20120920,49.162747,-122.778863
+4,Traffic,1000963318,,329,Constructed,Yes,,,In Service,,,Surrey,84 Avenue and 160 Street,,,,,,,,,20120920,49.15546,-122.77884
+4,Traffic,1000963512,,95,Constructed,No,Y,,In Service,,,Surrey,60 Avenue and 184 Street,,,,,,,,,20120920,49.111425,-122.712633
+4,Traffic,1000963351,,210,Constructed,No,Y,,In Service,,,Surrey,70 Avenue and 138 Street,,,,,,,,,20120920,49.129961,-122.838646
+4,Traffic,1000963507,,51,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 105A Avenue,,,,,,,,,20120920,49.194447,-122.845319
+2,Pedestrian,1000963535,,363,Constructed,No,,,In Service,,,Surrey,80 Avenue and Serpentine Greenway,,,,,,,,,20120920,49.148259,-122.873145
+4,Traffic,1000963429,,319,Constructed,Yes,,,In Service,,,Surrey,King George Blvd and 88 Avenue,,,,,,,,,20120920,49.162759,-122.845788
+4,Traffic,1000963549,,261,Constructed,Yes,Y,,In Service,,,Surrey,Southmere Crescent and Martin Dr,,,,,,,,,20120920,49.032725,-122.805066
+4,Traffic,1000963573,,5,Constructed,Yes,Y,,In Service,,,Surrey,108 Avenue and 132 Street,,,,,,,,,20120920,49.198961,-122.856477
+1,Fire,1000963633,,417,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.184807,-122.734434
+4,Traffic,1000963653,,436,Constructed,No,Y,,In Service,3805-4010-0,2008,Surrey,King George Blvd and 62 Avenue,,Final AB,,,,,,,20120920,49.11545,-122.844449
+4,Traffic,1000963437,,100,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 148 Street,,,,,,,,,20120920,49.119127,-122.812178
+4,Traffic,1000963703,,49,Constructed,Yes,,,In Service,,,Surrey,75A Avenueand 120 Street,,,,,,,,,20120920,49.140189,-122.890353
+4,Traffic,1000963620,,200,Constructed,Yes,Y,,In Service,,,Surrey,108 Avenue and 144 Street,,,,,,,,,20120920,49.198786,-122.823024
+4,Traffic,1000963641,,290,Constructed,Yes,,,In Service,,,Surrey,King George Blvd and 84 Avenue,,,,,,,,,20120920,49.155462,-122.845796
+4,Traffic,1000963471,,69,Constructed,Yes,Y,,In Service,,,Surrey,96 Avenue and120 Street,,,,,,,,,20120920,49.177146,-122.890154
+2,Pedestrian,1000963687,,377,Constructed,No,,,In Service,,,Surrey,91 Avenue and 160 Street,,,,,,,,,20120920,49.168268,-122.778865
+4,Traffic,1000963695,,59,Constructed,Yes,Y,,In Service,,,Surrey,Mall Access and 152 Street,,,,,,,,,20120920,49.056336,-122.801206
+4,Traffic,1000963363,,136,Constructed,Yes,Y,,In Service,,,Surrey,108 Avenue and 148 Street,,,,,,,,,20120920,49.198729,-122.81248
+4,Traffic,1000963395,,255,Constructed,Yes,Y,,In Service,,,Surrey,75 Avenue and 124 Street,,,,,,,,,20120920,49.139266,-122.879058
+4,Traffic,1000963616,,43,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 137 Street,,,,,,,,,20120920,49.133559,-122.842797
+4,Traffic,1000960520,,,Constructed,No,Y,,In Service,2857,,Surrey,Mall Access and 160 Street,,,,,,,,20081210,20120920,49.046863,-122.779207
+4,Traffic,1000963456,,194,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 146 Street,,,,,,,,,20120920,49.19151,-122.817505
+4,Traffic,1000963504,,149,Constructed,Yes,,,In Service,,,Surrey,King George Blvd and Mall Access,,,,,,,,,20120920,49.186129,-122.845418
+2,Pedestrian,1000963361,,389,Constructed,No,,,In Service,,,Surrey,78A Avenue and 140 Street,,,,,,,,,20120920,49.145441,-122.834542
+1,Fire,1000963659,,78,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.153017,-122.767747
+4,Traffic,1000963564,,234,Constructed,No,Y,,In Service,,,Surrey,24 Avenue and 148 Street,,,,,,,,,20120920,49.045661,-122.812262
+2,Pedestrian,1000963444,,401,Constructed,No,,,In Service,,,Surrey,16 Avenue andKent Street,,,,,,,,,20120920,49.031076,-122.78462
+4,Traffic,1000963332,,11,Constructed,Yes,Y,,In Service,3810-4010-00,2011,Surrey,96 Avenue and 156 Street,,Final AB,,,,,,,20120516,49.176896,-122.789961
+4,Traffic,1001602507,,,Constructed,,,,In Service,3812-4120-00,2013,Surrey,King George Blvd and 160 Street,,Initial AB,,,,,,20130612,20141211,49.034008,-122.779198
+4,Traffic,1000963538,,435,Constructed,No,,,In Service,3812-4110-00,2014,Surrey,88 Avenue and 162 Street,,,,,,,,,20141211,49.162775,-122.773214
+4,Traffic,1000963446,,294,Constructed,No,,,In Service,MOTH 71101-2011,2008,Provincial,Hwy 15 & 32 Ave,,Final AB,,,,,,,20130322,49.06015,-122.735383
+4,Traffic,1000963662,,263,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & 128 St,,Final AB,,,,,,,20130322,49.108124,-122.867842
+4,Traffic,1000963387,,315,Constructed,No,,,In Service,MOTH 71101-1004,2007,Provincial,Hwy 10 & KGB,,Final AB,,,,,,,20130322,49.10523,-122.832176
+4,Traffic,1000963694,,204,Constructed,No,,,In Service,MOTH 11257,2006,Provincial,Hwy 15 & 8 Ave,,Final AB,,,,,,,20130322,49.016662,-122.735231
+4,Traffic,1000963679,,134,Constructed,No,,,In Service,,,Provincial,Hwy 15 & 16 Ave,,,,,,,,,20130322,49.031236,-122.735175
+4,Traffic,1000963492,,272,Constructed,No,,,In Service,MOTH 11257,2006,Provincial,8 Ave & 172 St,,Final AB,,,,,,,20130322,49.016621,-122.746308
+4,Traffic,1000963543,,118,Constructed,No,,,In Service,,,Provincial,"152 St & Guildford Dr, South of Hwy 1",,,,,,,,,20130322,49.196985,-122.800515
+4,Traffic,1000963506,,236,Constructed,No,,,In Service,MOTH 71101-2011,2008,Provincial,Hwy 15 & 88 Ave,,Final AB,,,,,,,20130322,49.162588,-122.734712
+4,Traffic,1000963553,,320,Constructed,No,,,In Service,MOTH 71101-2011,2008,Provincial,Hwy 15 & 80 Ave,,Final AB,,,,,,,20130322,49.148037,-122.734801
+4,Traffic,1000963636,,311,Constructed,No,,,In Service,MOTH 71101-2011,2008,Provincial,Hwy 15 & Fraser Hwy,,Final AB,,,,,,,20130322,49.13813,-122.734745
+4,Traffic,1000963655,,148,Constructed,No,,,In Service,MOTH 71101-2011,2008,Provincial,Hwy 15 & 68A Ave,,Final AB,,,,,,,20130322,49.127225,-122.734802
+4,Traffic,1001147060,,,Constructed,,,,In Service,,,Provincial,hwy 99 near border,,,,,,,,20100119,20130322,49.002565,-122.757416
+4,Traffic,1000963341,,270,Constructed,Yes,Y,,In Service,1713-3030-00,2014,Surrey,King George Blvd and 16 Avenue,,Final AB,,,,,,,20141218,49.031071,-122.775558
+4,Traffic,1000963315,,113,Constructed,No,,,Proposed,,,Provincial,Hwy 10 @ Panorama Dr,,,,,,,,,20130322,49.104466,-122.806184
+4,Traffic,1000963514,,114,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and Bear Crk Park Access,,,,,,,,,20141010,49.162765,-122.841014
+4,Traffic,1000963461,,165,Constructed,No,Y,,In Service,,,Surrey,64 Avenue and 177B Street,,,,,,,,,20141010,49.11877,-122.730814
+4,Traffic,1000963485,,111,Constructed,Yes,Y,,In Service,,,Surrey,32 Avenue and 32 Avenue Diversion,,,,,,,,,20141010,49.060314,-122.80712
+4,Traffic,1001790077,,,Constructed,,Y,,In Service,,,Surrey,Nordel Way and Mall Access,,,,,,,,20141010,20141010,49.161954,-122.887901
+4,Traffic,1000963394,,120,Constructed,Yes,,,In Service,,,Surrey,100 Avenue and Mall Access,,,,,,,,,20141010,49.184338,-122.847176
+4,Traffic,1001734863,,,Constructed,,Y,,In Service,,,Surrey,108 Avenue and 156 Street,,,,,,,,20140317,20141010,49.19885,-122.789773
+2,Pedestrian,1001779492,,,Constructed,,,,In Service,,2014,Surrey,64 Ave  13300 Blk,,,,,,,,20140909,20141010,49.119008,-122.853684
+2,Pedestrian,1001779587,,,Constructed,,,,In Service,,,Surrey,17A Ave  152 St,,,,,,,,20140909,20141010,49.033842,-122.801184
+4,Traffic,1000963397,,330,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20141010,49.177124,-122.901169
+2,Pedestrian,1000963450,,,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20141010,49.189044,-122.848949
+4,Traffic,1000963517,,129,Constructed,No,,,In Service,,,Surrey,Scott Rd N/B and Scott Rd,,,,,,,,,20141010,49.205565,-122.874502
+4,Traffic,1000963433,,146,Constructed,Yes,,,In Service,,,Surrey,,,,,,,,,,20141010,49.205949,-122.874931
+2,Pedestrian,1001202932,,,Constructed,,,,In Service,3810-4050-00,2012,Surrey,90 Ave & 140 St,,Initial AB,,,,,,20121220,20141010,49.16648,-122.834627
+4,Traffic,1001218128,,,Constructed,,,,In Service,7806-0137-00,2011,Surrey,NW Mall Access & Croydon Drive,,Final AB,,,,,,20111107,20141010,49.048026,-122.787423
+4,Beacons,1000963320,,176,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20141010,49.162095,-122.886173
+4,Traffic,1000963413,,3,Constructed,No,Y,,In Service,7804-0437-00,,Surrey,96 Avenue and Green Timbers Way,,Final AB,,,,,,,20131015,49.177,-122.825025
+2,Pedestrian,1001750921,,,Constructed,,,,In Service,3813-4120-00,2014,Surrey,88 Avenue and 130 Street,,Initial AB,,,,,,20141215,20141215,49.162631,-122.862465
+2,Pedestrian,1000960518,,,Constructed,No,,,In Service,3812-4200-00,2014,Surrey,17 Avenue and 148 Street,,Final AB,,,,,,20081210,20141215,49.032963,-122.812222
+4,Traffic,1000963642,,211,Constructed,No,Y,,In Service,1713-3100-00,2015,Surrey,32 Avenue and 192 Street,,Final AB,,,,,,,20150902,49.060116,-122.691534
+4,Traffic,1000963548,,171,Constructed,Yes,Y,,In Service,1711-7090-00,2015,Surrey,72 Avenue and 122 Street,,,,,,,,,20151013,49.134018,-122.884822
+4,Traffic,1001733844,,,Constructed,,,,In Service,SFPR Seg. 7,2014,Provincial,,,Final AB,,,,,,20140311,20160407,49.213234,-122.861854
+4,Traffic,1001868559,,,Constructed,,,,In Service,SFPR Seg. 7,2014,Provincial,136 St & SFPR,,Final AB,,,,,,20160407,20160407,49.213119,-122.845202
+4,Traffic,1000963584,,137,Constructed,Yes,Y,,In Service,,,Surrey,74 Avenue and 128 Street,,,,,,,,,20120920,49.137458,-122.867874
+4,Traffic,1000963324,,220,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 120 Street,,,,,,,,,20120920,49.134087,-122.890355
+2,Pedestrian,1000963505,,340,Constructed,No,,,In Service,,,Surrey,108 Avenue and 146 Street,,,,,,,,,20120920,49.198754,-122.817426
+3,Special Crosswalk,1001412993,,,Constructed,,,,In Service,3810-7020-00,2011,Surrey,96 Ave & 153A St,,Final AB,,,,,,20120516,20120920,49.176872,-122.796999
+4,Traffic,1000963443,,305,Constructed,No,Y,,In Service,,,Surrey,24 Avenue and 140 Street,,,,,,,,,20120920,49.045728,-122.834408
+4,Traffic,1000963698,,41,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 138 Street,,,,,,,,,20120920,49.133596,-122.838653
+4,Traffic,1000963678,,18,Constructed,No,,,In Service,,,Surrey,84 Avenue and 156 Street,,,,,,,,,20120920,49.155497,-122.790116
+4,Traffic,1000963629,,55,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 188 Street,,,,,,,,,20120920,49.123745,-122.701706
+4,Traffic,1000963594,,201,Constructed,Yes,Y,,In Service,,,Surrey,Nordel Way and 120 Street,,,,,,,,,20120920,49.162027,-122.890362
+4,Traffic,1000963592,,274,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 134 Street,,,,,,,,,20120920,49.133624,-122.851148
+4,Traffic,1000963431,,147,Constructed,No,Y,,In Service,,,Surrey,92 Avenue and 132 Street,,,,,,,,,20120920,49.169927,-122.856873
+1,Fire,1000963354,,440,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.191676,-122.860149
+4,Traffic,1000963350,,230,Constructed,No,Y,,In Service,,,Surrey,96 Avenue and 134 Street,,,,,,,,,20120920,49.17707,-122.85126
+4,Traffic,1000963382,,188,Constructed,No,Y,,In Service,,,Surrey,68 Avenue and 184 Street,,,,,,,,,20120920,49.125902,-122.712573
+4,Traffic,1000963411,,312,Constructed,Yes,Y,,In Service,,,Surrey,32 Avenue Diversion and 152 Street,,,,,,,,,20120920,49.061578,-122.80119
+4,Traffic,1000963598,,61,Constructed,Yes,,,In Service,,,Surrey,80 Avenue and 124 Street,,,,,,,,,20120920,49.148375,-122.87909
+4,Traffic,1000963684,,250,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 152 Street,,,,,,,,,20120920,49.11904,-122.800993
+4,Traffic,1000963435,,214,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and 132 Street,,,,,,,,,20120920,49.162639,-122.85691
+4,Traffic,1000963554,,22,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 120 Street,,,,,,,,,20120920,49.119338,-122.890375
+4,Traffic,1000963336,,162,Constructed,Yes,,,In Service,,,Surrey,96 Avenue and 140 Street,,,,,,,,,20120920,49.176987,-122.834541
+4,Traffic,1000963453,,56,Constructed,Yes,,,In Service,,,Surrey,University Drive and Mall Entrance,,,,,,,,,20120920,49.187743,-122.85109
+4,Traffic,1000963396,,74,Constructed,No,Y,,In Service,,,Surrey,60 Avenue and 180 Street,,,,,,,,,20120920,49.11144,-122.723803
+4,Traffic,1000963682,,24,Constructed,Yes,Y,,In Service,,,Surrey,92 Avenue and 120 Street,,,,,,,,,20120920,49.170438,-122.890253
+2,Pedestrian,1000963468,,446,Constructed,No,,,In Service,,,Surrey,16 Avenue and 142 Street,,,,,,,,,20120920,49.031186,-122.828217
+4,Traffic,1000963639,,322,Constructed,Yes,Y,,In Service,,,Surrey,24 Avenue and 154 Street,,,,,,,,,20120920,49.045602,-122.795698
+4,Traffic,1000963379,,225,Constructed,No,Y,,In Service,,,Surrey,76 Avenue and 144 Street,,,,,,,,,20120920,49.140986,-122.823385
+3,Special Crosswalk,1001602513,,,Constructed,,,,In Service,3812-4140-00,2014,Surrey,57 Ave @  Panorama Dr,,Initial AB,,,,,,20130612,20141212,49.105627,-122.805994
+3,Special Crosswalk,1001602523,,,Constructed,,,,In Service,3812-4170-00,2014,Surrey,10700blk @  150 St,,Initial AB,,,,,,20130612,20141212,49.197253,-122.806227
+3,Special Crosswalk,1001602516,,,Constructed,,,,In Service,3812-4150-00,2014,Surrey,58 Ave @  Panorama Dr,,Initial AB,,,,,,20130612,20141212,49.106533,-122.804782
+2,Pedestrian,1001602528,,,Constructed,,,,In Service,3812-4180-00,2014,Surrey,16 Avenue and 132 Street,,Initial AB,,,,,,20130612,20141212,49.031262,-122.85647
+3,Special Crosswalk,1001602520,,,Constructed,,,,In Service,3812-4160-00,2014,Surrey,80 Ave @  133A St,,Initial AB,,,,,,20130612,20141212,49.148166,-122.85282
+2,Pedestrian,1001602533,,,Constructed,,,,In Service,3812-4190-00,2014,Surrey,18A Avenue and 148 Street,,Initial AB,,,,,,20130612,20141212,49.035675,-122.81223
+4,Traffic,1000963343,,174,Constructed,No,Y,,In Service,1709-3140-00,2014,Surrey,64 Avenue and 196 Street,,,,,,,,,20150423,49.119076,-122.679968
+4,Traffic,1000963323,,399,Constructed,No,Y,,In Service,3805-4070-00,2009,Surrey,King George Blvd and 78 Avenue,,Final AB,,,,,,,20091106,49.144496,-122.845658
+4,Traffic,1000963316,,285,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 100 Avenue,,,,,,,,,20120920,49.184314,-122.845434
+4,Traffic,1000963601,,203,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 160 Street,,,,,,,,,20120920,49.157361,-122.778846
+4,Traffic,1000963637,,186,Constructed,Yes,,,In Service,,,Surrey,80 Avenue and 120 Street,,,,,,,,,20120920,49.14858,-122.890359
+4,Traffic,1000963571,,58,Constructed,Yes,,,In Service,,,Surrey,96 Avenue and 138 Street,,,,,,,,,20120920,49.177014,-122.839967
+4,Traffic,1000963619,,207,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 156 Street,,,,,,,,,20120920,49.191599,-122.78975
+4,Traffic,1000963546,,125,Constructed,No,Y,,In Service,,,Surrey,16 Avenue and 168 Street,,,,,,,,,20120920,49.031098,-122.75713
+4,Traffic,1000963402,,62,Constructed,Yes,,,In Service,,,Surrey,100 Avenue and 156 Street,,,,,,,,,20120920,49.184361,-122.789792
+4,Traffic,1000963567,,89,Constructed,No,Y,,In Service,,,Surrey,24 Avenue and 160 Street,,,,,,,,,20120920,49.045547,-122.779212
+1,Fire,1000963355,,442,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.119109,-122.8098
+4,Traffic,1000963342,,16,Constructed,Yes,Y,,In Service,,,Surrey,105 Avenue and 152 Street,,,,,,,,,20120920,49.193195,-122.800871
+4,Traffic,1000963383,,17,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 132 Street,,,,,,,,,20120920,49.119003,-122.856511
+4,Traffic,1000963651,,180,Constructed,No,Y,,In Service,,,Surrey,108 Avenue and 160 Street,,,,,,,,,20120920,49.198799,-122.778671
+4,Traffic,1000963415,,258,Constructed,Yes,,,In Service,,,Surrey,Panorama Drive and 152 Street,,,,,,,,,20120920,49.108448,-122.800992
+4,Traffic,1000963369,,184,Constructed,No,,,In Service,,,Surrey,84 Avenue and 140 Street,,,,,,,,,20120920,49.155494,-122.834601
+4,Traffic,1000963489,,70,Constructed,Yes,,,In Service,,,Surrey,104 Avenue and 128 Street,,,,,,,,,20120920,49.191699,-122.867731
+3,Special Crosswalk,1001413047,,,Constructed,,,,In Service,3810-7040-00,2011,Surrey,15910blk 96 Ave,,Final AB,,,,,,20120516,20120920,49.176903,-122.781452
+4,Traffic,1000963555,,107,Constructed,Yes,Y,,In Service,,,Surrey,100 Avenue and 152 Street,,,,,,,,,20120920,49.184198,-122.800916
+4,Traffic,1000963519,,112,Constructed,No,Y,,In Service,,,Surrey,20 Avenue and 140 Street,,,,,,,,,20120920,49.038477,-122.834368
+4,Traffic,1000963593,,9,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and Fraser Hwy,,,,,,,,,20120920,49.180551,-122.845531
+4,Traffic,1000963479,,243,Constructed,No,,,In Service,,,Surrey,74 Avenue and 138 Street,,,,,,,,,20120920,49.137242,-122.838681
+4,Traffic,1000963344,,282,Constructed,Yes,Y,,In Service,,,Surrey,84 Avenue and 152 Street,,,,,,,,,20120920,49.155534,-122.80142
+4,Traffic,1000963345,,122,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 92 Avenue,,,,,,,,,20120920,49.170056,-122.845837
+4,Traffic,1000963391,,265,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 144 Street,,,,,,,,,20120920,49.119124,-122.823299
+4,Traffic,1000963334,,29,Constructed,Yes,,,In Service,,,Surrey,King George Blvd and Crescent Road,,,,,,,,,20120920,49.067451,-122.820648
+4,Traffic,1000963459,,121,Constructed,Yes,,,In Service,,,Surrey,68 Avenue and 120 Street,,,,,,,,,20120920,49.126715,-122.890366
+4,Traffic,1000963472,,154,Constructed,Yes,Y,,In Service,,,Surrey,100 Avenue and 150 Street,,,,,,,,,20120920,49.184178,-122.806486
+4,Traffic,1000963376,,287,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 150 Street,,,,,,,,,20120920,49.191485,-122.806432
+4,Traffic,1000963686,,37,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 96 Avenue,,,,,,,,,20120920,49.176549,-122.828437
+4,Traffic,1000963412,,44,Constructed,No,Y,,In Service,3803-4060-00,2005,Surrey,64 Avenue and 172 Street,,Final AB,,,,,,,20100204,49.118837,-122.746002
+4,Traffic,1000963486,,244,Constructed,Yes,Y,,In Service,1705-3110-00,2009,Surrey,King George Blvd and 152 Street,,Final AB,,,,,,,20100303,49.051781,-122.801228
+0,Beacons,1001146947,,,Constructed,,,,In Service,,,Surrey,,Red Beacon,,,,,,,20100118,20100629,49.111896,-122.856655
+0,Beacons,1001146946,,,Constructed,,,,In Service,,2010,Surrey,,Yellow Beacon,,,,,,,20100118,20100629,49.00214,-122.731087
+0,Beacons,1001146889,,,Constructed,,,,In Service,,2010,Surrey,,Yellow Beacon,,,,,,,20100118,20100629,49.045757,-122.845469
+0,Beacons,1001165791,,,Constructed,,,,In Service,,2010,Surrey,,Red Beacon,,,,,,,20100629,20100629,49.170229,-122.879269
+4,Traffic,1000963562,,278,Constructed,No,Y,,In Service,3804-4170-00,2008,Surrey,King George Blvd and 60 Avenue,,Final AB,,,,,,,20120920,49.111856,-122.840356
+4,Traffic,1000963522,,198,Constructed,No,Y,,In Service,,,Surrey,54A Avenue and 152 Street,,,,,,,,,20120920,49.101698,-122.801068
+4,Traffic,1000963605,,71,Constructed,Yes,Y,,In Service,,,Surrey,34 Avenue and 152 Street,,,,,,,,,20120920,49.06374,-122.801187
+4,Traffic,1000963581,,101,Constructed,No,,,In Service,,,Surrey,28 Avenue and 148 Street,,,,,,,,,20120920,49.052918,-122.812281
+4,Traffic,1000963627,,199,Constructed,Yes,Y,,In Service,,,Surrey,60 Avenue and 152 Street,,,,,,,,,20120920,49.111724,-122.800968
+4,Traffic,1000963449,,256,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 20 Avenue,,,,,,,,,20120920,49.038321,-122.784544
+4,Traffic,1000963583,,68,Constructed,Yes,Y,,In Service,,,Surrey,16 Avenue and 156 Street,,,,,,,,,20120920,49.031092,-122.790196
+4,Traffic,1000963693,,212,Constructed,Yes,,,In Service,,,Surrey,92 Avenue and 160 Street,,,,,,,,,20120920,49.170069,-122.778866
+4,Traffic,1000963670,,160,Constructed,No,Y,,In Service,,,Surrey,24 Avenue and 128 Street,,,,,,,,,20120920,49.04577,-122.867385
+4,Traffic,1000963498,,291,Constructed,No,Y,,In Service,,,Surrey,16 Avenue and 184 Street,,,,,,,,,20120920,49.031205,-122.71336
+4,Traffic,1000963466,,456,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 94A Avenue,,,,,,,,,20120920,49.174686,-122.845758
+4,Traffic,1000963495,,313,Constructed,Yes,Y,,In Service,,,Surrey,100 Avenue and 128 Street,,,,,,,,,20120920,49.18444,-122.867658
+4,Traffic,1000963503,,93,Constructed,Yes,Y,,In Service,,,Surrey,68 Avenue and 152 Street,,,,,,,,,20120920,49.126358,-122.801038
+2,Pedestrian,1000963436,,404,Constructed,No,,,In Service,,,Surrey,106 Avenue and 132 Street,,,,,,,,,20120920,49.195376,-122.856458
+4,Traffic,1000963617,,163,Constructed,No,Y,,In Service,,,Surrey,Whalley Blvd and Skytrain Access,,,,,,,,,20120920,49.18206,-122.842097
+4,Traffic,1000963611,,251,Constructed,No,Y,,In Service,,,Surrey,16 Avenue and 192 Street,,,,,,,,,20120920,49.031063,-122.691292
+4,Traffic,1000963317,,13,Constructed,No,Y,,In Service,,,Surrey,24 Avenue and Croydon Drive,,,,,,,,,20120920,49.045559,-122.7828
+2,Pedestrian,1000963557,,425,Constructed,No,,,In Service,,,Surrey,76A Avenue and 120 Street,,,,,,,,,20120920,49.14232,-122.890354
+4,Traffic,1000963550,,414,Constructed,Yes,Y,,In Service,,,Surrey,90 Avenueand 120 Street,,,,,,,,,20120920,49.166827,-122.890305
+4,Traffic,1000963691,,273,Constructed,No,Y,,In Service,,,Surrey,92 Avenue and 156 Street,,,,,,,,,20120920,49.170119,-122.790067
+4,Traffic,1000963673,,240,Constructed,No,Y,,In Service,,,Surrey,96 Avenue and 128 Street,,,,,,,,,20120920,49.177173,-122.86803
+4,Traffic,1000963508,,50,Constructed,Yes,,,In Service,,,Surrey,64 Avenue and 128 Street,,,,,,,,,20120920,49.119119,-122.867843
+1,Fire,1000963349,,367,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.034748,-122.802334
+4,Traffic,1000963321,,27,Constructed,No,,,In Service,,,Surrey,100 Avenue and 154 Street,,,,,,,,,20120920,49.184265,-122.795355
+4,Traffic,1000963346,,267,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 148 Street,,,,,,,,,20120920,49.170316,-122.812287
+0,Beacons,1001146887,,,Constructed,,,,In Service,,2010,Surrey,,Yellow Beacon,,,,,,,20100118,20100629,49.045762,-122.850951
+0,Beacons,1001165794,,,Constructed,,,,In Service,,2010,Surrey,,Red Beacon,,,,,,,20100629,20100629,49.060252,-122.834437
+4,Traffic,1000963578,,135,Constructed,Yes,Y,,In Service,3807-4060-00,2009,Surrey,72 Avenue and 140 Street,,Final AB,,,,,,,20100830,49.133633,-122.834454
+4,Traffic,1000963552,,387,Constructed,No,,,In Service,MOTH 71101-2010,2009,Provincial,57 Ave @ Hwy 15,,Final AB,,,,,,,20100610,49.105991,-122.738254
+2,Pedestrian,1001121318,,,Constructed,No,No,,In Service,3808-4170-00,2009,Surrey,70 Avenue and 188 Street,,Final AB,,,,,,20110929,20110929,49.129821,-122.701671
+4,Traffic,1000963381,,448,Constructed,No,Y,,In Service,3807-4020-00,2009,Surrey,82 Avenue and 124 Street,,Final AB,,,,,,,20100831,49.15204,-122.879095
+4,Traffic,1000963365,,452,Constructed,Yes,Y,,In Service,3807-4000-00,2009,Surrey,72 Avenue and 130 Street,,Final AB,,,,,,,20100831,49.133801,-122.862276
+4,Traffic,1000963551,,117,Constructed,No,,,In Service,1707-3270-00,2009,Surrey,32 Avenue and 160 Street,,Final AB,,,,,,,20111005,49.060065,-122.779165
+4,Traffic,1000963428,,143,Constructed,Yes,Y,,In Service,3807-4080-00,2010,Surrey,Fraser Highway and 64 Avenue,,Final AB,,,,,,,20101217,49.118988,-122.691309
+4,Traffic,1000963419,,177,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 154 Street,,,,,,,,,20120920,49.191537,-122.795317
+2,Pedestrian,1000963434,,447,Constructed,No,,,In Service,,,Surrey,16 Avenue and 144 Street,,,,,,,,,20120920,49.031205,-122.823282
+4,Traffic,1000963494,,145,Constructed,Yes,Y,,In Service,,,Surrey,108 Avenue and Whalley Boulevard,,,,,,,,,20120920,49.198864,-122.842623
+4,Traffic,1000963497,,280,Constructed,Yes,Y,,In Service,,,Surrey,82 Avenue and 152 Street,,,,,,,,,20120920,49.151909,-122.801293
+4,Traffic,1000963618,,260,Constructed,No,Y,,In Service,,,Surrey,32 Avenue and 184 Street,,,,,,,,,20120920,49.060164,-122.713436
+1,Fire,1000963561,,369,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.198757,-122.817825
+4,Traffic,1000963329,,205,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 144 Street,,,,,,,,,20120920,49.133733,-122.82333
+1,Fire,1000963339,,394,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.061085,-122.797964
+2,Pedestrian,1000963455,,409,Constructed,No,,,In Service,,,Surrey,98 Avenue and 132 Street,,,,,,,,,20120920,49.180761,-122.856676
+4,Traffic,1000963337,,94,Constructed,Yes,Y,,In Service,,,Surrey,24 Avenue and 152 Street,,,,,,,,,20120920,49.04562,-122.801196
+1,Fire,1000963358,,331,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.166367,-122.801393
+4,Traffic,1001146933,,,Constructed,,Y,,In Service,,,Surrey,120 Street and Boundary Park Gate,,,,,,,,20100118,20120920,49.11291,-122.890438
+4,Traffic,1000963458,,231,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 102 Avenue,,,,,,,,,20120920,49.187835,-122.845404
+4,Traffic,1000963404,,97,Constructed,Yes,Y,,In Service,,,Surrey,66 Avenue and 128 Street,,,,,,,,,20120920,49.122853,-122.867814
+4,Traffic,1000963388,,109,Constructed,No,Y,,In Service,,,Surrey,88 Avenue and 133A Street,,,,,,,,,20120920,49.162683,-122.852827
+4,Traffic,1000963681,,57,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 132 Street,,,,,,,,,20120920,49.133713,-122.85671
+4,Traffic,1000963500,,181,Constructed,Yes,,,In Service,,,Surrey,77 Avenue and 132 Street,,,,,,,,,20120920,49.142798,-122.856775
+4,Traffic,1000963656,,284,Constructed,Yes,Y,,In Service,,,Surrey,68 Avenue and 132 Street,,,,,,,,,20120920,49.126403,-122.856618
+4,Traffic,1000963430,,268,Constructed,No,Y,,In Service,,,Surrey,103 Avenue and 160 Street,,,,,,,,,20120920,49.189306,-122.77857
+4,Traffic,1000963568,,153,Constructed,No,Y,,In Service,,,Surrey,75 Avenue and 121A Street,,,,,,,,,20120920,49.139418,-122.88572
+4,Traffic,1000963585,,237,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 88 Avenue,,,,,,,,,20120920,49.16307,-122.793647
+4,Traffic,1000963473,,328,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 156 Street,,,,,,,,,20120920,49.161755,-122.790179
+4,Traffic,1000963529,,90,Constructed,Yes,Y,,In Service,,,Surrey,68 Avenue and 128 Street,,,,,,,,,20120920,49.126586,-122.867786
+4,Traffic,1000963384,,242,Constructed,No,Y,,In Service,,,Surrey,74 Avenue and 140 Street,,,,,,,,,20120920,49.137274,-122.834481
+4,Traffic,1000963425,,85,Constructed,No,,,In Service,,,Surrey,100 Avenue and 160 Street,,,,,,,,,20120920,49.18435,-122.778599
+4,Traffic,1000963348,,105,Constructed,No,Y,,In Service,,,Surrey,60 Avenue and 188 Street,,,,,,,,,20120920,49.111334,-122.701682
+4,Traffic,1000963625,,20,Constructed,Yes,Y,,In Service,,,Surrey,100 Avenue and 132 Street,,,,,,,,,20120920,49.184403,-122.856522
+4,Traffic,1000963421,,245,Constructed,No,,,In Service,MOTH 71101-2010,2009,Provincial,Hwy 10 @ Hwy 15,,Final AB,,,,,,,20110321,49.104081,-122.738296
+4,Traffic,1000963328,,169,Constructed,No,Y,,In Service,3801-4060-00,2009,Surrey,32 Avenue and 168 Street,,Final AB,,,,,,,20111005,49.060311,-122.75686
+4,Traffic,1000963521,,156,Constructed,No,,,In Service,7806-0137-00,2011,Surrey,26 Avenue and 160 Street,,Final AB,,,,,,,20111107,49.049177,-122.7792
+4,Traffic,1000963487,,309,Constructed,No,Y,,In Service,3808-4190-00,2009,Surrey,24 Avenue and 156 Street,,Final AB,,,,,,,20091109,49.045583,-122.790201
+4,Traffic,1000963407,,103,Constructed,Yes,Y,,In Service,3804-4260-00,2009,Surrey,64 Avenue and 168 Street,,Final AB,,,,,,,20091116,49.118899,-122.756556
+4,Traffic,1000963609,,227,Constructed,No,Y,,In Service,3804-4240-00,2009,Surrey,60 Avenue and 168 Street,,Final AB,,,,,,,20091116,49.111544,-122.756667
+4,Traffic,1000963579,,386,Constructed,No,Y,,In Service,3804-4160-00,2011,Surrey,96 Avenue and Prince Charles Blvd,,Final AB,,,,,,,20111024,49.177146,-122.864102
+4,Traffic,1000963511,,31,Constructed,Yes,Y,,In Service,3804-4040-00,2007,Surrey,88 Avenue and Mall Access,,Final AB,,,,,,,20111109,49.163047,-122.876211
+4,Traffic,1000963559,,150,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and 124 Street,,,,,,,,,20120920,49.163216,-122.879061
+4,Traffic,1000963482,,403,Constructed,No,Y,,In Service,,,Surrey,64 Avenue and 166 Street,,,,,,,,,20120920,49.11893,-122.762405
+2,Pedestrian,1000963483,,427,Constructed,No,,,In Service,,,Surrey,70B Avenue and 132 Street,,,,,,,,,20120920,49.131203,-122.856678
+4,Traffic,1000963325,,239,Constructed,Yes,Y,,In Service,,,Surrey,96 Avenue and 132 Street,,,,,,,,,20120920,49.177097,-122.856851
+2,Pedestrian,1000963542,,411,Constructed,No,,,In Service,,,Surrey,88 Avenue and 142A Street,,,,,,,,,20151005,49.16283,-122.827702
+4,Traffic,1000963454,,78,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 164 Street,,,,,,,,,20120920,49.153017,-122.767747
+4,Traffic,1000963534,,138,Constructed,Yes,Y,,In Service,,,Surrey,84 Avenue and 120 Street,,,,,,,,,20120920,49.155988,-122.890373
+2,Pedestrian,1000963515,,356,Constructed,Yes,,,In Service,,,Surrey,Fraser Highway and 194 Street,,,,,,,,,20120920,49.116124,-122.684783
+4,Traffic,1000963661,,115,Constructed,No,,,In Service,,,Surrey,101 Avenue and 150 Street,,,,,,,,,20120920,49.186125,-122.806471
+4,Traffic,1000963532,,299,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 124 Street,,,,,,,,,20120920,49.133947,-122.879103
+3,Special Crosswalk,1001779490,,,Constructed,,,,In Service,,2014,Surrey,69A Ave  124 St,,,,,,,,20140909,20140909,49.129115,-122.879025
+3,Special Crosswalk,1001779560,,,Constructed,,,,In Service,,,Surrey,,,,,,,,,20140909,20140909,49.045642,-122.80673
+4,Traffic,1000963476,,77,Constructed,Yes,Y,,In Service,,,Surrey,88 Avenue and 140 Street,,,,,,,,,20120920,49.162782,-122.834643
+4,Traffic,1000963451,,281,Constructed,Yes,,,In Service,,,Surrey,101 Avenue and 152 Street,,,,,,,,,20120920,49.186128,-122.800906
+4,Traffic,1000963624,,21,Constructed,Yes,Y,,In Service,,,Surrey,80 Avenue and 120A Street,,,,,,,,,20120920,49.148539,-122.888095
+3,Special Crosswalk,1001779491,,,Constructed,,,,In Service,,2014,Surrey,70A Ave  124 St,,,,,,,,20140909,20140909,49.131105,-122.879057
+4,Traffic,1000963692,,132,Constructed,Yes,Y,,In Service,,,Surrey,Old Yale Road and 132 Street,,,,,,,,,20120920,49.187699,-122.856485
+4,Traffic,1000963327,,308,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 34 Avenue,,,,,,,,,20120920,49.064842,-122.817411
+4,Traffic,1000963563,,73,Constructed,No,Y,,In Service,,,Surrey,104 Avenue and 142 Street,,,,,,,,,20120920,49.191503,-122.828612
+4,Traffic,1000963375,,33,Constructed,Yes,Y,,In Service,,,Surrey,16 Avenue and 152 Street,,,,,,,,,20120920,49.031132,-122.801152
+4,Traffic,1000963680,,289,Constructed,Yes,Y,,In Service,,,Surrey,16 Avenue and 160 Street,,,,,,,,,20120920,49.03106,-122.779194
+4,Traffic,1000963420,,277,Constructed,Yes,Y,,In Service,,,Surrey,84 Avenue and 132 Street,,,,,,,,,20120920,49.155413,-122.856862
+4,Traffic,1000963660,,228,Constructed,No,Y,,In Service,,,Surrey,60 Avenue and 192 Street,,,,,,,,,20120920,49.111311,-122.69119
+4,Traffic,1000963664,,91,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 132 Street,,,,,,,,,20120920,49.191665,-122.856437
+4,Traffic,1000963374,,79,Constructed,Yes,,,In Service,,,Surrey,King George Blvd and 80 Avenue,,,,,,,,,20120920,49.148149,-122.845684
+4,Traffic,1000963513,,157,Constructed,No,Y,,In Service,,,Surrey,20 Avenue and 128 Street,,,,,,,,,20120920,49.038531,-122.86745
+4,Traffic,1000963537,,283,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 76 Avenue,,,,,,,,,20120920,49.14084,-122.845632
+2,Pedestrian,1000963688,,459,Constructed,No,,,In Service,,,Surrey,108 Avenue and 139 Street,,,,,,,,,20120920,49.198853,-122.836932
+4,Traffic,1000963610,,269,Constructed,Yes,Y,,In Service,,,Surrey,72 Avenue and 126 Street,,,,,,,,,20120920,49.133921,-122.873467
+4,Traffic,1000963493,,252,Constructed,Yes,Y,,In Service,3804-4020-00,2007,Surrey,88 Avenue and 128 Street,,Final AB,,,,,,,20111109,49.162566,-122.868026
+4,Traffic,1001147049,,,Constructed,,,,In Service,,,Surrey,64 Avenue and 194 Street,,,,,,,,20100119,20100119,49.119102,-122.685382
+4,Traffic,1000963460,,81,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 144 Street,,,,,,,,,20120920,49.191526,-122.823101
+4,Traffic,1000963577,,318,Constructed,Yes,Y,,In Service,,,Surrey,16 Avenue and 148 Street,,,,,,,,,20120920,49.031154,-122.812216
+4,Traffic,1000963690,,119,Constructed,Yes,Y,,In Service,,,Surrey,16 Avenue and Martin Drive,,,,,,,,,20120920,49.031158,-122.805288
+4,Traffic,1000963545,,221,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 124 Street,,,,,,,,,20120920,49.119228,-122.878991
+4,Traffic,1000963390,,178,Constructed,No,Y,,In Service,,,Surrey,60 Avenue and 177B Street,,,,,,,,,20120920,49.111465,-122.730302
+4,Traffic,1001740202,,,Constructed,,,,In Service,3813-4100-00,2013,Surrey,103 Avenue and University Drive,,Initial AB,,,,,,20140407,20150629,49.190147,-122.849846
+4,Traffic,1000963480,,197,Constructed,Yes,Y,,In Service,,,Surrey,84 Avenue and 128 Street,,,,,,,,,20120920,49.155366,-122.867999
+4,Traffic,1000963528,,88,Constructed,Yes,Y,,In Service,,,Surrey,110 Avenue and 120 Street,,,,,,,,,20120920,49.202867,-122.878337
+4,Traffic,1000963448,,183,Constructed,Yes,,,In Service,,,Surrey,Grosvenor Road and Hansen Road,,,,,,,,,20120920,49.203998,-122.836162
+2,Pedestrian,1000963423,,412,Constructed,No,,,In Service,,,Surrey,88 Avenue and 146 Street,,,,,,,,,20151005,49.162841,-122.817903
+4,Traffic,1000963352,,127,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 72 Avenue,,,,,,,,,20120920,49.133534,-122.845578
+2,Pedestrian,1000963623,,413,Constructed,No,,,In Service,,,Surrey,93A Avenue and 120 Street,,,,,,,,,20120920,49.172984,-122.890215
+1,Fire,1000963475,,390,Constructed,No,,,In Service,,,Surrey,,,,,,,,,,20120920,49.119006,-122.698898
+2,Pedestrian,1000963565,,349,Constructed,No,,,In Service,,,Surrey,100 Avenue and 151 Street,,,,,,,,,20120920,49.184187,-122.803949
+4,Traffic,1000963700,,447,Constructed,Yes,,,In Service,,,Surrey,King George Blvd and University Dr,,,,,,,,,20120920,49.202665,-122.850992
+4,Traffic,1000963322,,75,Constructed,Yes,,,In Service,,,Surrey,17 Avenue and 152 Street,,,,,,,,,20120920,49.032936,-122.801164
+4,Traffic,1000963541,,306,Constructed,Yes,,,In Service,,,Surrey,100 Avenue and Whalley Boulevard,,,,,,,,,20120920,49.184309,-122.843233
+4,Traffic,1000963635,,189,Constructed,Yes,Y,,In Service,,,Surrey,104 Avenue and 148 Street,,,,,,,,,20120920,49.191495,-122.812451
+2,Pedestrian,1000963330,,371,Constructed,Yes,,,In Service,,,Surrey,19 Avenue and 152 Street,,,,,,,,,20120920,49.036556,-122.801186
+4,Traffic,1000963371,,26,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and Fleetwood Way,,,,,,,,,20120920,49.164748,-122.797932
+4,Traffic,1000963362,,190,Constructed,Yes,Y,,In Service,,,Surrey,102 Avenue and 140 Street,,,,,,,,,20120920,49.187722,-122.834154
+4,Traffic,1000963410,,187,Constructed,No,Y,,In Service,,,Surrey,68 Avenue and 137A Street,,,,,,,,,20120920,49.126463,-122.841489
+4,Traffic,1000963595,,217,Constructed,Yes,Y,,In Service,,,Surrey,80 Avenue and 132 Street,,,,,,,,,20120920,49.148172,-122.856814
+4,Traffic,1000963490,,192,Constructed,Yes,Y,,In Service,,,Surrey,80 Avenue and 128 Street,,,,,,,,,20120920,49.148157,-122.86797
+4,Traffic,1000963566,,323,Constructed,Yes,Y,,In Service,,,Surrey,64 Avenue and 184 Street,,,,,,,,,20120920,49.118742,-122.712567
+2,Pedestrian,1000963706,,410,Constructed,No,,,In Service,,,Surrey,66 Avenue and 120 Street,,,,,,,,,20120920,49.123018,-122.89037
+4,Traffic,1000963677,,264,Constructed,Yes,Y,,In Service,,,Surrey,King George Blvd and 108 Avenue,,,,,,,,,20120920,49.198866,-122.845952
+4,Traffic,1000963416,,87,Constructed,Yes,Y,,In Service,,,Surrey,36 Avenue and 152 Street,,,,,,,,,20120920,49.06737,-122.801181
+2,Pedestrian,1000963370,,423,Constructed,No,Y,,In Service,,,Surrey,88 Avenue and 153 Street,,,,,,,,,20120920,49.16284,-122.798987
+4,Traffic,1000963648,,64,Constructed,Yes,,,In Service,,,Surrey,99 Avenue and 120 Street,,,,,,,,,20150908,49.182624,-122.890188
+4,Traffic,1000963530,,66,Constructed,Yes,Y,,In Service,,,Surrey,82 Avenue and 128 Street,,,,,,,,,20150908,49.15032,-122.86798
+4,Traffic,1000963590,,219,Constructed,Yes,Y,,In Service,,,Surrey,Fraser Highway and 84 Avenue,,,,,,,,,20150908,49.155751,-122.774784
+4,Traffic,1001224667,,,Constructed,No,Y,,In Service,3810-4110-00,2011,Surrey,96 Avenue and 172 Street,,Final AB,,,,,,20111222,20150908,49.177049,-122.745856
+4,Traffic,1001779572,,,Constructed,,Y,,In Service,,2014,Surrey,Colebrook Road and 152 Street Fg E,,,,,,,,20140909,20150908,49.098298,-122.800778
