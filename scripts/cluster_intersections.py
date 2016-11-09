@@ -61,9 +61,9 @@ def run():
         for cam in int_cams:
             cams.remove(cam)
 
-    print len(intersections)
-    print len(filter(lambda i: len(i.cameras) > 0, intersections))
-    print len(cams)
+    with open('intersections.pk', 'w') as f:
+        import pickle
+        pickle.dump(intersections, f)
 
 def dist(p1, p2):
     return sqrt((p1.lat - p2.lat) ** 2 + (p1.lng - p2.lng) ** 2)
