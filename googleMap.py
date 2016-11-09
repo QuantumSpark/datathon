@@ -36,23 +36,23 @@ def plotPointsOnMap():
         };
         markerTrafficCamera[i] = dic
 
-    markerCollisions = [{} for _ in range(collision.LATITUDE.size)]
-    for i in range(int(collision.LATITUDE.size)):
-        avgLat += collision.LATITUDE[i]
-        avgLong += collision.LONGTITUDE[i]
-        dic = {
-            'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
-            'lat': collision.LATITUDE[i],
-            'lng': collision.LONGTITUDE[i],
-            'infobox': "<b>traffic camera</b>" + str(collision.LATITUDE[i]) + "," + str(
-                collision.LONGTITUDE[i])
-        };
-        markerCollisions[i] = dic
+    # markerCollisions = [{} for _ in range(collision.LATITUDE.size)]
+    # for i in range(int(collision.LATITUDE.size)):
+    #     avgLat += collision.LATITUDE[i]
+    #     avgLong += collision.LONGTITUDE[i]
+    #     dic = {
+    #         'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
+    #         'lat': collision.LATITUDE[i],
+    #         'lng': collision.LONGTITUDE[i],
+    #         'infobox': "<b>traffic camera</b>" + str(collision.LATITUDE[i]) + "," + str(
+    #             collision.LONGTITUDE[i])
+    #     };
+    #     markerCollisions[i] = dic
 
 
     totalSize = trafficCameras.LATITUDE.size + rawTrafficSignal.Latitude.size + collision.LATITUDE.size
 
-    markers = markerTrafficSignal + markerTrafficCamera + markerCollisions
+    markers = markerTrafficSignal + markerTrafficCamera
     avgLat = avgLat/totalSize
     avgLong = avgLong/totalSize
     print(avgLat)
