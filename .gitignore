@@ -1,5 +1,8 @@
 #created by https://www.gitignore.io/api/python,jetbrains
 
+# Surrey Request JSON data
+surrey_api/data
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -142,5 +145,5 @@ fabric.properties
 
 # *.iml
 # modules.xml
-# .idea/misc.xml 
+# .idea/misc.xml
 # *.ipr
