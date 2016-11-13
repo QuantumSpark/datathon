@@ -15,3 +15,7 @@ The Python Starter demonstrates a simple, reusable Python web application.
 Test CI
 
 [Install Python]: https://www.python.org/downloads/
+
+## Generate report
+
+Run `python2.7 surrey_req.py && python2.7 req_stats.py`

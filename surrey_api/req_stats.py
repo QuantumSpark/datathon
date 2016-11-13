@@ -6,8 +6,6 @@ import calendar
 import operator
 from collections import Counter
 
-import surrey_req
-
 """
 Requests responses have the form:
 
@@ -111,7 +109,6 @@ def pretty_print_dist(dist_dict):
     max_value  = max(dist_dict.values())
     sum_values = sum(dist_dict.values())
     sorted_dist_dict = sorted(dist_dict.items(), key=operator.itemgetter(1), reverse=True)
-    service_keys = surrey_req.get_service_list().json()
     for tup in sorted_dist_dict:
         num_spaces      = max_spaces - len(tup[0])
         num_bars        = int((tup[1] / float(max_value)) * 50) + 1

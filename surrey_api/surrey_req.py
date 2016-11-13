@@ -83,8 +83,8 @@ if __name__ == "__main__":
     if not os.access('./data/', os.F_OK):
         os.mkdir('./data/')
 
-    with open('requests_20160101_20161112_OPEN.json','w') as f:
+    with open('./data/requests_20160101_20161112_OPEN.json','w') as f:
         json.dump(get_all_requests(start_date="2016-01-01",end_date="2016-11-12").json(), f)
 
-    with open('requests_20160101_20161112_CLOSED.json','w') as f:
+    with open('./data/requests_20160101_20161112_CLOSED.json','w') as f:
         json.dump(get_all_requests(start_date="2016-01-01",end_date="2016-11-12", status="CLOSED").json(), f)
