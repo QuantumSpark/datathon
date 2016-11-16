@@ -21,7 +21,7 @@ invClosedMap = {v: k for k, v in closedMap.iteritems()}
 
 def predictCategoryOpen(inputString):
     surrey = pd.read_csv(pathForOpen)
-
+    print "Open has this many data: " + str(surrey["agency_responsible"].size)
     surrey = surrey[surrey["agency_responsible"] != "OTHER"]
     surrey["agency_responsible_num"] = surrey["agency_responsible"].map(openMap)
 
@@ -61,7 +61,7 @@ def predictCategoryOpen(inputString):
 
 def predictCategoryClosed (inputString):
     surrey = pd.read_csv(pathForClosed)
-
+    print "Closed has this many data: " +  str(surrey["agency_responsible"].size)
     surrey["agency_responsible_num"] = surrey["agency_responsible"].map(closedMap)
     surrey = surrey[~numpy.isnan(surrey["agency_responsible_num"])]
     X = surrey["description"]
@@ -98,5 +98,6 @@ def predictCategoryClosed (inputString):
     return invClosedMap.get(predictedNum[0])
 
 
-print predictCategoryClosed("playground")
-print predictCategoryOpen("playground")
+print predictCategoryOpen("Notification of Missed Pick-Up")
+print predictCategoryClosed("Notification of Missed Pick-Up")
+
