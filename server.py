@@ -5,11 +5,13 @@ import os
 app = Flask(__name__)
 
 PORT = int(os.getenv('PORT', 8000))
-@app.route('/classifyrequest', methods=['POST'])
+HOST = '0.0.0.0'
+
+@app.route('/classifyrequest', methods=['GET'])
 def example():
     json_dict = request.get_json()
     return predict(json_dict['body'])
 
 
 if __name__ == '__main__':
-    app.run(port=PORT)
+    app.run(port=PORT, host=HOST)
