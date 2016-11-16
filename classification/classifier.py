@@ -67,24 +67,24 @@ print(metrics.classification_report(y_test, y_predicted))
 #plt.show()
 
 saved_classifier = pickle.dumps(grid_search)
-joblib.dump(grid_search, 'mysentiment-classifier.pkl')
+joblib.dump(grid_search, 'mysentiment-classifier.pkl', protocol = 2)
 
-# Predict the result on some short new sentences:
-sentences = [
-     u'Notification of Missed Pick-Up',
-     u'Notification of Sidewalk, Curb or Letdown Problem',
-     u'Notification of Roadside Dumping',
-     u'Parks Other Issue',
-]
+# # Predict the result on some short new sentences:
+# sentences = [
+#      u'Notification of Missed Pick-Up',
+#      u'Notification of Sidewalk, Curb or Letdown Problem',
+#      u'Notification of Roadside Dumping',
+#      u'Parks Other Issue',
+# ]
 
-#pickle.loads(saved_classifier)
-restored_classifier = joblib.load('classifier.pkl')
+# #pickle.loads(saved_classifier)
+# restored_classifier = joblib.load('classifier.pkl')
 
-predicted = restored_classifier.predict(sentences)
-print (predicted)
+# predicted = restored_classifier.predict(sentences)
+# print (predicted)
 
-# for s, p in zip(sentences, predicted):
-#     print(u'The sentiment of "%s" is "%s"' % (s, dataset.target_names[p]))
+# # for s, p in zip(sentences, predicted):
+# #     print(u'The sentiment of "%s" is "%s"' % (s, dataset.target_names[p]))
 
  
 
