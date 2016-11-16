@@ -8,7 +8,7 @@ app = Flask(__name__)
 PORT = int(os.getenv('PORT', 8000))
 HOST = '0.0.0.0'
 
-@app.route('/classifyrequest', methods=['GET'])
+@app.route('/classifyrequest', methods=['GET', 'POST'])
 def example():
     json_dict = request.get_json()
     return predict(json_dict['body'])
