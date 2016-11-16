@@ -2,6 +2,7 @@ from flask import Flask, request
 from predictor import predict
 import os
 
+
 app = Flask(__name__)
 
 PORT = int(os.getenv('PORT', 8000))
