@@ -1,6 +1,6 @@
 from flask import Flask, request
 from predictor import predict
-
+import os
 
 app = Flask(__name__)
 
@@ -12,4 +12,4 @@ def example():
 
 
 if __name__ == '__main__':
-    app.run(port = :PORT)
+    app.run(port=PORT)
