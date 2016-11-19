@@ -17,7 +17,7 @@ class TwitterApi(object):
         self.rad = rad
         self.__geocode = '{0},{1},{2}'.format(lat, lng, rad)
 
-    def surrey_mentions(self, since=None, until=None):
+    def surrey_mentions(self, since=None, until=None, count=100, max_id=None):
         """
         Returns tweets mentioning City of Surrey between optional since/until
         parameters. `since` and `until` are datetime objects.
@@ -25,14 +25,26 @@ class TwitterApi(object):
         params = {'to': self.user}
         if since: params['since'] = self.__format_date(since)
         if until: params['until'] = self.__format_date(until)
+        raw_query = self.__construct_query(**params)
 
-        return self.__api.GetSearch(raw_query=self.__construct_query(**params))
+        if max_id:
+            raw_query = raw_query + "&max_id="+str(max_id)
+        if count: 
+            raw_query = raw_query + "&count="+str(count)
+        
+        print raw_query
+        return self.__api.GetSearch(raw_query=raw_query)
+
+    def surrey_mentions2(self):
+        return self.__api.GetSearch(term="CityofSurrey", count = 100)
+
 
     def surrey_location(self, since=None, until=None):
         """
         Returns tweets sent from within the City of Surrey between optional since/until
         parameters. `since` and `until` are datetime objects.
         """
+
         params = {'geocode': self.__geocode}
         if since: params['since'] = self.__format_date(since)
         if until: params['until'] = self.__format_date(until)
@@ -44,3 +56,6 @@ class TwitterApi(object):
 
     def __format_date(self, dt):
         return dt.strftime('%Y-%m-%d')
+
+twitter = TwitterApi()
+print len(twitter.surrey_mentions2())
