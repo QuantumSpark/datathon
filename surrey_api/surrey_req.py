@@ -83,8 +83,32 @@ if __name__ == "__main__":
     if not os.access('./data/', os.F_OK):
         os.mkdir('./data/')
 
-    with open('./data/requests_20160101_20161112_OPEN.json','w') as f:
-        json.dump(get_all_requests(start_date="2016-01-01",end_date="2016-11-12").json(), f)
+    # Get all data from 2010-01-01 to today
+    # NOTE: if time is > 2016, change last 2 steps and loop range accordingly
+    for i in range(6):
+        year = '201{}'.format(i)
+        fname = './data/requests_'+year+'0101_'+year+'1231_CLOSED.json'
+        res = get_all_requests(start_date=year+"-01-01",end_date=year+"-12-31",status="CLOSED")
+        print fname
+        print res.url
+        with open(fname,'w') as f:
+            json.dump(res.json(), f)
 
-    with open('./data/requests_20160101_20161112_CLOSED.json','w') as f:
-        json.dump(get_all_requests(start_date="2016-01-01",end_date="2016-11-12", status="CLOSED").json(), f)
+    today_compact = time.strftime("%Y%m%d",time.localtime(time.time()))
+    today_hyphen  = time.strftime("%Y-%m-%d",time.localtime(time.time()))
+
+    curr_open_fname = './data/requests_20160101_'+today_compact+'_OPEN.json'
+    curr_closed_fname = './data/requests_20160101_'+today_compact+'_CLOSED.json'
+    with open(curr_open_fname,'w') as f:
+        res = get_all_requests(start_date="2016-01-01",end_date=today_hyphen)
+        print curr_open_fname
+        print "Response code: {}".format(res.status_code)
+        print res.url
+        json.dump(res.json(), f)
+
+    with open(curr_closed_fname,'w') as f:
+        res = get_all_requests(start_date="2016-01-01",end_date=today_hyphen, status="CLOSED")
+        print curr_closed_fname
+        print "Response code: {}".format(res.status_code)
+        print res.url
+        json.dump(res.json(), f)
